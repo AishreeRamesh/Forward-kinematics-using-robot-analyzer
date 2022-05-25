@@ -70,5 +70,4 @@ https://user-images.githubusercontent.com/70213227/170174635-804432ee-87a5-4573-
 
 
 ### RESULTS : 
-
-The forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles is analysed.
+Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
