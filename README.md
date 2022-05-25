@@ -44,13 +44,21 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
  
 #### 6 DOF
 
+##### Video
+
 https://user-images.githubusercontent.com/74660507/170173778-fc013f2c-51ff-4b6e-bd8f-15332d07056a.mp4
+
+#### Screenshot
 
 ![image](https://user-images.githubusercontent.com/70213227/170177308-8d984a17-d2bb-496d-98af-a4498ee98547.png)
 
 #### 4 DOF
 
+##### Video
+
 https://user-images.githubusercontent.com/70213227/170174635-804432ee-87a5-4573-a9ab-0882b537c72b.mp4
+
+#### Screenshot
 
 ![image](https://user-images.githubusercontent.com/70213227/170177134-89450af2-719f-41db-bb40-cc8ed73bad45.png)
 
