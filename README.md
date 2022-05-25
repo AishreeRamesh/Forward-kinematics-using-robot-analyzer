@@ -41,8 +41,6 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 5. plot the graph between the link and the joints.
 6. update the DH parameters of the link configuration and end effector configuration.
 
-
-
 ### SIMULATION 
  
 #### 6 DOF
